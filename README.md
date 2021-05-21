@@ -14,5 +14,5 @@ RunKwest is an effort to help all those aspiring to run their first half maratho
 https://runkwest.netlify.app/
 
 #### UserName - Password to access the features (Temporary)
-username - sachin
+username - sachin,
 password - sachin1234
